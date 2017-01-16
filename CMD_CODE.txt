@@ -1,0 +1,2 @@
+C:\Python27\Lib\site-packages\PyQt4\pyuic4.bat -x BluetoothDialogBox.ui -o BluetoothDialog.py
+C:\Python27\ImageViewer
